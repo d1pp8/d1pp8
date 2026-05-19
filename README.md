@@ -32,17 +32,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,c,cpp" />
-
-</p>
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux" />
 
 </p>
 
@@ -51,13 +41,12 @@
 # ⚙️ Backend Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=django,flask,docker,mysql,mongodb" />
-
-</p>
-
-<p align="center">
-
+  
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
