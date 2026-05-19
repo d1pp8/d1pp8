@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitriy</h1>
-
-<h3 align="center">
-Python Backend Developer | Backend Architecture Enthusiast
-</h3>
+<h1 align="center">👋 I'm Dmytro </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Building+REST+APIs;Learning+Microservices;Exploring+AI+Technologies" />
@@ -18,7 +14,6 @@ Python Backend Developer | Backend Architecture Enthusiast
 - 🧠 Interested in backend architecture & microservices
 - ⚙️ Building REST APIs with Python
 - 🐳 Learning containerized backend development
-- 🤖 Exploring AI technologies
 - 📚 Focused on clean and scalable backend solutions
 
 ---
