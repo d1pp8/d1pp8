@@ -32,13 +32,19 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,docker,mysql,mongodb,linux,git,github,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,c,cpp" />
 
 </p>
 
 ---
 
-## ⚙️ Backend Technologies
+# ⚙️ Backend Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,flask,docker,mysql,mongodb" />
+
+</p>
 
 <p align="center">
 
