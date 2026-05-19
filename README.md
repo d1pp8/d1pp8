@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎯 Working toward becoming a Backend Developer
 - 🧠 Interested in backend architecture & microservices
@@ -46,18 +46,6 @@
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dippe&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dippe&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
