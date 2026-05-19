@@ -79,9 +79,9 @@
 
 ```python
 while alive:
-    eat()
-    sleep()
-    code()
+    eat(['meat','sweets'])
+    sleep("It would be good")
+    code(follow_dream)
 ```
 
 ---
