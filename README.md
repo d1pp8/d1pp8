@@ -38,6 +38,16 @@
 
 ---
 
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,c,cpp" />
+
+</p>
+
+---
+
 # ⚙️ Backend Technologies
 
 <p align="center">
@@ -48,10 +58,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/CRUD-4CAF50?style=flat-square"/>
 
 </p>
 
