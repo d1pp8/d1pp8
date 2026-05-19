@@ -1,20 +1,21 @@
 <h1 align="center">👋 I'm Dmytro </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Building+REST+APIs;Learning+Microservices;Exploring+AI+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+to+become+a+Python+Backend+Developer;Building+REST+APIs;Learning+Microservices;" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently improving backend engineering skills
+- 🎯 Working toward becoming a Backend Developer
 - 🧠 Interested in backend architecture & microservices
 - ⚙️ Building REST APIs with Python
 - 🐳 Learning containerized backend development
 - 📚 Focused on clean and scalable backend solutions
+- ⚖️ Trying to balance study and life
 
 ---
 
@@ -84,7 +85,8 @@
 
 # 🚀 Goals
 
-- Build scalable backend systems
+- Land first job as a Python Backend Developer
+- Become a strong Backend specialist
 - Improve software architecture skills
 - Create production-ready APIs
 - Deepen Python backend expertise
