@@ -68,7 +68,7 @@
 # 🚀 Goals
 
 - Land first job as a Python Backend Developer
-- Become a strong Backend specialist
+- Build production-ready backend systems
 - Improve software architecture skills
 - Create production-ready APIs
 - Deepen Python backend expertise
