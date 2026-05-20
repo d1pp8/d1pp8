@@ -71,7 +71,6 @@
 - Build production-ready backend systems
 - Improve software architecture skills
 - Create production-ready APIs
-- Deepen Python backend expertise
 
 ---
 
