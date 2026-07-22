@@ -25,29 +25,6 @@ Currently, I'm focused on improving my backend engineering skills by building re
 
 ---
 
-# 🚀 Featured Project
-
-### 🏠 T-Book API
-
-Backend REST API for an apartment booking platform.
-
-### Features
-
-- Authentication with JWT
-- Property & Unit Management
-- Booking System
-- Reviews & Ratings
-- Image Uploads
-- Role-based Permissions
-- Filtering & Pagination
-- API Documentation (Swagger/OpenAPI)
-- Docker Deployment
-- PostgreSQL Database
-- Service Layer Architecture
-- Automated Tests
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
@@ -106,31 +83,6 @@ Backend REST API for an apartment booking platform.
 - Learn distributed systems
 - Contribute to Open Source
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```python
-while True:
-    coffee()
-    write_clean_code()
-    docker_compose_up()
-    git_push()
-```
-
----
 
 <p align="center">
 
