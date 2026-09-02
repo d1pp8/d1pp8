@@ -29,7 +29,7 @@ Currently, I'm focused on improving my backend engineering skills by building re
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,github,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,git,github" />
 
 </p>
 
