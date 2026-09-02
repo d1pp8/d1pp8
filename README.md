@@ -58,7 +58,7 @@ Currently, I'm focused on improving my backend engineering skills by building re
 # 🌍 Languages
 
 - 🇺🇦 Ukrainian — Native
-- 🇷🇺 Russian — Fluent
+- 🇷🇺 Russian — Native
 - 🇩🇪 German — B2
 - 🇬🇧 English — B1
 
